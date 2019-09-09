@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QQ</string>
+    <string name="splash_ad_title">Vae+</string>
+    <string name="splash_ad_text" >因为一个人，爱上一群人。</string>
+    <string name="todo">TODO</string>
+    <string name="editText_hint">QQ号/手机号/邮箱</string>
+    <string name="editText_hint_password" >输入密码</string>
+    <string name="enter" >登录</string>
+    <string name="register_title">用手机号码注册</string>
+</resources>
